@@ -1,0 +1,22 @@
+p {
+    color: red;
+}
+a {
+    text-decoration: none;
+    font-size: 40px ;
+    background-image: linear-gradient(to left, violet, indigo, blue, green, yellow, orange, red);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    
+}
+div {
+    text-align: center;
+    height: 100vh;
+    line-height: 100vh;
+    
+}
+body {
+    background-color: darkcyan;    
+}
+
+
